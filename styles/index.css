@@ -180,13 +180,6 @@ li a
 	align-items: center;
 }
 
-//.carousel_item
-{
-	display: flex !important;
-	flex-direction: column;
-	margin-right: 20px;
-}
-
 .slick-prev {
 	left: 15px;
 }
